@@ -10,3 +10,4 @@ project/
 .project
 .cache-tests
 !project/plugins.sbt
+.idea/
